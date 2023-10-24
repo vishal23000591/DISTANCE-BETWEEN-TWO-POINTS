@@ -28,8 +28,9 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Output](distanceoutput.png)
+![distanceoutput](https://github.com/vishal23000591/DISTANCE-BETWEEN-TWO-POINTS/assets/147139719/2dc27ab7-86fe-4d20-90b0-92eb9e3eb26d)
 
 
 
 ### RESULT:
+Thus the progran for distance between two points is executed successfully.
