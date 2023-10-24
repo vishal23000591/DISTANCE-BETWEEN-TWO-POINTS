@@ -28,6 +28,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
+![Output](distanceoutput.png)
+
 
 
 ### RESULT:
