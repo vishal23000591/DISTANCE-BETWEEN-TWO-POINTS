@@ -14,6 +14,7 @@ Print the distance.
 ### Step 5: 
 Stop the program.
 ### PROGRAM:
+```
 #Program to find the distance between two points.
 #Developed by: Vishal S
 #RegisterNumber: 23000591
@@ -23,7 +24,7 @@ b=[4,2]
 d=((b[0]-a[0])**2+(b[1]-a[1])**2)**0.5
 print("{:.2f}".format(d))
 
-  
+```  
 
 
 ### OUTPUT:
